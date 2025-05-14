@@ -86,17 +86,14 @@
 
             
              function showCrane(){
-                infoText.innerHTML = "WHOOPING CRANE";
+                infoText.innerHTML = "The Whooping Crane is one of North America's rarest and most endangered birds, facing numerous challenges throughout its migration. These cranes migrate between their breeding grounds in Wood Buffalo National Park, Canada, and their wintering habitat along the Gulf Coast of Texas. Along the way, they encounter threats such as habitat loss, severe weather, predators, and collision risks with power lines1. Conservation efforts, including habitat protection and the use of high-visibility flight diverters, aim to mitigate these dangers. Despite these challenges, dedicated conservation programs have helped their population rebound from near extinction";
 
              }
              function showMonarch(){
-                infoText.innerHTML = "MONARCH BUTTERFLY";
+                infoText.innerHTML = "Monarch butterflies face numerous challenges during their migration, including habitat loss, climate change, pesticide use, and dwindling food sources such as milkweed, which is crucial for their reproduction. Their migration path is one of the most remarkable in the insect world, as they travel thousands of miles between Canada or the northern United States and central Mexico. In the fall, eastern populations journey south to the oyamel fir forests in the mountains of Mexico, where they overwinter in large colonies. In the spring, they begin a multi-generational return northward, with each generation moving further until their descendants complete the cycle. This incredible migration requires precise navigation, endurance, and access to critical stopover habitats along the way, all of which are increasingly threatened by environmental pressures.";
              }
              function showAmericanBison(){
-                infoText.innerHTML = "AMERICAN BISON";
+                infoText.innerHTML = "The American bison, once roaming vast grasslands in massive herds, now faces significant challenges in migration due to habitat fragmentation, human development, and conservation policies. Historically, these animals moved across the plains in search of food and water, playing a crucial role in maintaining ecosystem balance. However, modern obstacles such as fences, roads, and agricultural expansion have restricted their movement, leading to isolated populations. Conservation efforts, including reintroduction programs and protected reserves, aim to restore their natural roaming patterns, but political, social, and logistical hurdles remain. Despite these difficulties, ongoing initiatives strive to ensure that bison can reclaim their ecological role while coexisting with human activities. ";
             
              }
-             function hideText(){
-                infoText.innerHTML = "";
-             }
-
+            
